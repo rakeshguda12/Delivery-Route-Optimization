@@ -27,7 +27,7 @@ This project focuses on optimizing delivery routes for multiple locations to min
 
 ## 📊 Output
 The project generates an interactive map showing all delivery points and the optimized route connecting them.
-## 📸 Output Screenshot
+## 📸 Output Image
 
 ![Route Map](output.png)
 ## 👨‍💻 Author
