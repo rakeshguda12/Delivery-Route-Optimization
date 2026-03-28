@@ -22,3 +22,11 @@ This project focuses on optimizing delivery routes for multiple locations to min
 
 ## ▶️ How to Run
 1. Install required libraries:
+2. Run the Python file:
+3. Open `route_map.html` in your browser
+
+## 📊 Output
+The project generates an interactive map showing all delivery points and the optimized route connecting them.
+
+## 👨‍💻 Author
+Rakesh Teja
